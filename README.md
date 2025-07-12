@@ -30,6 +30,13 @@ Built with privacy-focused design to serve vulnerable populations without requir
 - Clinic-specific sponsorship
 - Recurring donation options
 
+
+
+| Landing Page 🌐                      | 
+| --------------------------  | 
+|<img width="2828" height="1334" alt="image" src="https://github.com/user-attachments/assets/d074b512-4b8c-458a-81d9-8d2eab3e831f" />
+
+
 ## 🛠️ Technical Stack
 
 | Component | Technology |
